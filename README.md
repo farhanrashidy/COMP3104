@@ -2,5 +2,5 @@
 #### -- Sheikh Mohammad Farhan Rashidy
 #### -- 101512659
 
-# GitHub Action Status Badge
+# GiHub Action Status
 [![CI](https://github.com/farhanrashidy/COMP3104/actions/workflows/ci.yml/badge.svg)](https://github.com/farhanrashidy/COMP3104/actions/workflows/ci.yml)
