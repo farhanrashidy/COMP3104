@@ -1,0 +1,20 @@
+{
+  "name": "labexercise",
+  "version": "1.0.0",
+  "description": "-- Sheikh Mohammad Farhan Rashidy\r --101512659",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farhanrashidy/COMP3104.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farhanrashidy/COMP3104/issues"
+  },
+  "homepage": "https://github.com/farhanrashidy/COMP3104#readme"
+}
