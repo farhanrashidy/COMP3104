@@ -1,5 +1,5 @@
 name: Deploy React App
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀  
+run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 
 on: [push]
 
@@ -11,13 +11,13 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v5
 
-      - name: Set up Node
+      - name: Set up Node.js
         uses: actions/setup-node@v3
-        with: 
+        with:
           node-version: "20.x" # Use the appropriate Node.js version for your project
-      
+
       - name: Install dependencies
-        run: npm Install
+        run: npm install
 
       - name: Run test
         run: npm run test
